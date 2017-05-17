@@ -1,0 +1,5 @@
+/Users/mehmet/Projects/WindowCreator/WindowCreator/bin/Debug/WindowCreator.exe
+/Users/mehmet/Projects/WindowCreator/WindowCreator/bin/Debug/WindowCreator.pdb
+/Users/mehmet/Projects/WindowCreator/WindowCreator/obj/x86/Debug/WindowCreator.csproj.CoreCompileInputs.cache
+/Users/mehmet/Projects/WindowCreator/WindowCreator/obj/x86/Debug/WindowCreator.exe
+/Users/mehmet/Projects/WindowCreator/WindowCreator/obj/x86/Debug/WindowCreator.pdb

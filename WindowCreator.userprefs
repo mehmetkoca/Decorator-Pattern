@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{AD4BE08E-5E33-4D85-8C8A-3CF83A35C19B}|Default">
+  <MonoDevelop.Ide.ItemProperties.WindowCreator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WindowCreator/WindowHorizontalScrollBar.cs">
+    <Files>
+      <File FileName="WindowCreator/Program.cs" Line="10" Column="40" />
+      <File FileName="WindowCreator/Window.cs" Line="7" Column="42" />
+      <File FileName="WindowCreator/WindowHeader.cs" Line="8" Column="60" />
+      <File FileName="WindowCreator/WindowFrame.cs" Line="8" Column="65" />
+      <File FileName="WindowCreator/WindowCreator.cs" Line="17" Column="28" />
+      <File FileName="WindowCreator/WindowBackgroundImage.cs" Line="8" Column="65" />
+      <File FileName="WindowCreator/WindowBackgroundColor.cs" Line="6" Column="63" />
+      <File FileName="WindowCreator/WindowShadow.cs" Line="6" Column="52" />
+      <File FileName="WindowCreator/WindowVerticalScrollBar.cs" Line="6" Column="40" />
+      <File FileName="WindowCreator/WindowHorizontalScrollBar.cs" Line="6" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
