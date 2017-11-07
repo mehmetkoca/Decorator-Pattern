@@ -1,4 +1,4 @@
-#Facade-Pattern
+#Decorator-Pattern
 
 Geliştirdiğiniz bir yazılımda görsel kullanıcı arayüzünde çeşitli pencereler kullandığınızı varsayın. Bir pencere temel haliyle çerçevesiz, beyaz bir dikdörtgenden ibarettir. Kullanıcınızın tercihlerine bağlı olarak pencerelerin şu opsiyonel görsel özellikleri istenilen kombinasyonda sunabilmesi gerektiğini düşünün:
 
